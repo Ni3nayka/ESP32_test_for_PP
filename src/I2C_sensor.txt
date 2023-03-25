@@ -1,0 +1,6 @@
+lazer:
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout.pdf
+
+color:
+https://www.hackster.io/sherwinchiu89/multiplexing-6-i2c-tcs34725-color-sensors-2a7272
+https://translated.turbopages.org/proxy_u/en-ru.ru.469b6d33-641f72c8-c9842f57-74722d776562/https/stackoverflow.com/questions/46650433/multiple-tcs34725-arduino-color-sensor-with-softwire-i2c-emulator-library
