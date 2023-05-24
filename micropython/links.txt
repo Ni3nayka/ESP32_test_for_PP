@@ -1,0 +1,5 @@
+set thony for esp32 micropython:
+https://microkontroller.ru/esp32-projects/programmirovanie-esp32-na-micropython-s-pomoshhyu-thonny-ide/
+
+load micropython on esp32:
+https://randomnerdtutorials.com/flash-upload-micropython-firmware-esp32-esp8266/
